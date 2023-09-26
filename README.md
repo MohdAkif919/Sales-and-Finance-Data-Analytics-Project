@@ -48,9 +48,14 @@ AtliQ Hardwares is a leading company which supplies products such as computer ha
 ![sales_and_finance_analytics_project_using_excel_page-0017](https://github.com/MohdAkif919/Sales-and-Finance-Data-Analytics-Project/assets/58876003/5f82df99-68d2-4bc3-9777-5e87b0bf74d0)
 
 ## Tools/Features Used:-
-• Microsoft Excel
-• Power Query (Data Cleaning & Transformation)
-• Power Pivot (Data Modeling)
-• Pivot Table (Data Summarization)
-• DAX Measures (To create Calculated Columns)
-• Conditional Formatting (To highlight the data points that are interesting to stakeholders)
+**• Microsoft Excel**
+
+**• Power Query (Data Cleaning & Transformation)**
+
+**• Power Pivot (Data Modeling)**
+
+**• Pivot Table (Data Summarization)**
+
+**• DAX Measures (To create Calculated Columns)**
+
+**• Conditional Formatting (To highlight the data points that are interesting to stakeholders)**
