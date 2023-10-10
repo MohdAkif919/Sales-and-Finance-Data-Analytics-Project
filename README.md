@@ -1,7 +1,7 @@
-## Introduction
+# Introduction
 AtliQ Hardwares is a leading company which supplies products such as computer hardware and peripherals to clients across the world. My role was to create the sales and financial report to analyze its performance in the market for the year 2019, 2020 and 2021. Here's the breakdown:
 
-## Sales Analytics
+# Sales Analytics
 **• Thorough Analysis:** I conducted an exhaustive analysis of the net sales performance, examining data across various dimensions, including year, customer, market, product, growth and division.
 
 **• Target Alignment:** Ensured alignment with the strategic objectives by closely scrutinizing market performance against predefined targets.
@@ -26,7 +26,7 @@ AtliQ Hardwares is a leading company which supplies products such as computer ha
 
 ![sales_and_finance_analytics_project_using_excel_page-0009](https://github.com/MohdAkif919/Sales-and-Finance-Data-Analytics-Project/assets/58876003/5f50426b-8342-4d12-9da6-a3536655aaba)
 
-## Finance Analytics
+# Finance Analytics
 **• Metric Development:** I designed and implemented essential financial metrics such as Net Sales, COGS, Gross Margin and Gross Margin % for the purpose of creating a P&L statement.
 
 **• Decision-Making:** These metrics are responsible for generating valuable insights to perform data-driven decision-making .
@@ -47,7 +47,7 @@ AtliQ Hardwares is a leading company which supplies products such as computer ha
 
 ![sales_and_finance_analytics_project_using_excel_page-0017](https://github.com/MohdAkif919/Sales-and-Finance-Data-Analytics-Project/assets/58876003/5f82df99-68d2-4bc3-9777-5e87b0bf74d0)
 
-## Tools/Features Used:-
+# Tools/Features Used:-
 **• Microsoft Excel**
 
 **• Power Query (Data Cleaning & Transformation)**
